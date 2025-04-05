@@ -1,0 +1,4 @@
+Tabelas relacionais e Keys
+Utilizando USE e SELECT
+Ordenando com o ORDER BY
+Adicionando o WHERE e comentando uma linha
