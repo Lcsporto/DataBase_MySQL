@@ -2,3 +2,14 @@ Tabelas relacionais e Keys
 Utilizando USE e SELECT
 Ordenando com o ORDER BY
 Adicionando o WHERE e comentando uma linha
+Modificando uma Coluna
+Variações do WHERE
+Operadores AND, OR e NOT
+Operador IN
+Operador BETWEEN
+Operador LIKE
+Operador IS NULL
+Operador REGEXP
+Operadores Matemáticos
+Operadores de Comparação
+Operadores Lógicos
