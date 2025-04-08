@@ -13,3 +13,7 @@ Operador REGEXP
 Operadores Matemáticos
 Operadores de Comparação
 Operadores Lógicos
+Utilizando o Inner Join
+Filtrando com JOIN
+Adicionando um Alias
+Multiplas Tabelas
