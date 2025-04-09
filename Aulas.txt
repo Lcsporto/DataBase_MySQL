@@ -17,3 +17,10 @@ Utilizando o Inner Join
 Filtrando com JOIN
 Adicionando um Alias
 Multiplas Tabelas
+Informações sobre a tabela
+Adicionando uma linha a tabela
+Adicionando multiplas linhas
+Inserindo em multiplas tabelas
+Copiar uma tabela completa
+Removendo uma Tabela
+Deletendo um Valor
